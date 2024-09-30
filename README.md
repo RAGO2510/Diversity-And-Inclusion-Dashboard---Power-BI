@@ -121,6 +121,6 @@ Average Rating Male 2.41%
 
 Employees promoted year of 2021 is 54.34% Male and 45.66% Female.
 
-The most common age group is 20-29 having 223 employees fall in this category.
+The most common age group is 20-29 having 103 employees fall in this category.
 
 
